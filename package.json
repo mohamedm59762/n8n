@@ -1,12 +1,10 @@
 {
-  "name": "n8n",
-  "version": "1.0.0",
-  "description": "Self-hosted automation tool n8n",
-  "main": "index.js",
+  "name": "n8n-app",
+  "version": "1.36.1",
   "scripts": {
     "start": "n8n"
   },
   "dependencies": {
-    "n8n": "^1.44.0"
+    "n8n": "1.36.1"
   }
 }
