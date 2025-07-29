@@ -1,12 +1,13 @@
 {
   "name": "n8n",
-  "version": "1.0.0",
-  "description": "Self-hosted automation tool n8n",
-  "main": "index.js",
+  "version": "1.36.1",
+  "description": "n8n - Workflow Automation",
+  "author": "n8n.io",
+  "license": "MIT",
   "scripts": {
     "start": "n8n"
   },
   "dependencies": {
-    "n8n": "^1.44.0"
+    "n8n": "1.36.1"
   }
 }
