@@ -9,5 +9,5 @@
   "dependencies": {
     "n8n": "^1.44.0"
   },
-  "packageManager": "yarn@npm:3.6.1"
+  "packageManager": "yarn@1.22.22"
 }
