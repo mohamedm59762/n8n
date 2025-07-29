@@ -1,13 +1,13 @@
 {
-  "name": "n8n-app",
-  "version": "1.0.0",
+  "name": "n8n",
+  "version": "1.36.1",
   "scripts": {
     "start": "n8n"
   },
-  "engines": {
-    "node": ">=20.19 <=24.x"
-  },
   "dependencies": {
     "n8n": "^1.36.1"
+  },
+  "engines": {
+    "node": ">=20.0.0 <=20.x"
   }
 }
