@@ -1,9 +1,6 @@
 {
-  "name": "n8n",
+  "name": "n8n-app",
   "version": "1.36.1",
-  "description": "n8n - Workflow Automation",
-  "author": "n8n.io",
-  "license": "MIT",
   "scripts": {
     "start": "n8n"
   },
